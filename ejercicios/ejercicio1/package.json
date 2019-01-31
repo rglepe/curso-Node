@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "ejercicio 1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "mongoose": "^5.3.10"
+  }
+}
